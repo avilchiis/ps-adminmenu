@@ -84,9 +84,8 @@ I don't take any credit from this resource I just made it compatible with ESX fo
 
 # Depedency
 
-1. [qb-core](https://github.com/qbcore-framework/qb-core)
-2. [es_extended](https://github.com/esx-framework/esx_core)
-3. [ox_lib](https://github.com/overextended/ox_lib)
+1. [qb-core](https://github.com/qbcore-framework/qb-core) OR [es_extended](https://github.com/esx-framework/esx_core)
+2. [ox_lib](https://github.com/overextended/ox_lib)
 
 # Installation
 
